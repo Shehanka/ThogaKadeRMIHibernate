@@ -1,0 +1,8 @@
+.fxml{
+    -fx-background: linear-gradient(to right, #e53935, #e35d5b);
+}
+
+.fxml2{
+    -fx-background-color: linear-gradient(to right, #d3cce3, #e9e4f0);
+    -fx-background-radius: 100 0 100 0;
+}
